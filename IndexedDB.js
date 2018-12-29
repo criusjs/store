@@ -1,4 +1,4 @@
-let db = window.indexedDB.open("_data");
+let request = window.indexedDB.open("_data");
 
 class IndexedDB {
   setItem(key, value) {

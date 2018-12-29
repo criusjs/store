@@ -23,4 +23,4 @@ if (!window.localStorage) {
 
 
 // cookie
-navigator.cookieEnabled
+// navigator.cookieEnabled
